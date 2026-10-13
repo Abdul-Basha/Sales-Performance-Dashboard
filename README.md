@@ -1,4 +1,5 @@
 # Sales Performance Dashboard using Excel
+![Dashboard Preview](Dashboard.png)
 
 ## Project Overview
 
